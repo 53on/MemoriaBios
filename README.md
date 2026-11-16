@@ -2,7 +2,7 @@
 
 **A memory for AI that works like a human one. It chooses what to keep, forgets on a curve, sleeps, and knows how much it knows. No extra model calls.**
 
-[![Website](https://img.shields.io/badge/Website-53on.com%2Fharness-7C5CFF?style=for-the-badge)](https://53on.com/harness/) [![Get 53ON Harness](https://img.shields.io/badge/Get-53ON%20Harness-0078D6?style=for-the-badge)](https://github.com/53on/53on-harness/releases/latest)
+[![Website](https://img.shields.io/badge/Website-53on.com%2Fmemoriabios-7C5CFF?style=for-the-badge)](https://53on.com/memoriabios/) [![Get 53ON Harness](https://img.shields.io/badge/Get-53ON%20Harness-0078D6?style=for-the-badge)](https://github.com/53on/53on-harness/releases/latest)
 
 ![A memory that forgets like a human](assets/cover.png)
 
