@@ -1,10 +1,14 @@
 # MemoriaBios
 
-**A memory for AI that works like a human one. It chooses what to keep, forgets on a curve, sleeps, and knows how much it knows. No extra model calls.**
+**Claude forgets. GPT forgets. Your PC remembers.**
+
+MemoriaBios keeps your AI's memory on your own PC, for any model, cloud or local. Switch models and it still knows who it is, what you decided and why. It works like a human memory: it chooses what to keep, forgets on a curve, sleeps, and knows how much it knows. No extra model calls.
 
 [![Website](https://img.shields.io/badge/Website-53on.com%2Fmemoriabios-7C5CFF?style=for-the-badge)](https://53on.com/memoriabios/) [![Get 53ON Harness](https://img.shields.io/badge/Get-53ON%20Harness-0078D6?style=for-the-badge)](https://github.com/53on/53on-harness/releases/latest)
 
 ![A memory that forgets like a human](assets/cover.png)
+
+> **Not a database. A mind.** It records only what it paid attention to. Recall depends on the cue. A wrong memory lives next to its correction. Forgetting is by design. If a person doesn't do it, it isn't an improvement.
 
 Most AI memory tools try to remember everything: they log every session, summarize it with a second model and search it like a database. That is a logbook. MemoriaBios copies how human memory works, including the parts that look like bugs: it forgets, and sometimes it only "kind of" remembers.
 
