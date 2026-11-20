@@ -56,6 +56,10 @@ There is also involuntary recall. On each message the memory may bring back one 
 
 Recall, déjà vu, involuntary recall, sleep and forgetting are plain code. There is no LLM summarizer, no embeddings service and no second model reading your sessions. Your memories are files on your own PC, and a memory can hold a photo, an audio or a video.
 
+### You can see it
+
+MemoriaBios Maps draws the whole memory live with Babylon.js, with a level of detail of its own, like cluster-based LOD: a cold memory melts into its nearest hotter one, and the screen keeps a fixed budget of 2,200 points, hottest first. See it in motion on the [Babylon.js forum](https://forum.babylonjs.com/t/64718).
+
 ## What we tried and removed
 
 In July 2026 we built search by meaning: word vectors learned from the AI's own memories while it sleeps, with no extra model calls. We measured it on a real brain of about 1,800 memories. It barely helped, and when it did, it was superhuman: it found things a person never would from that cue. We removed it. Human recall depends on the cue, and the meaning a human does use lives in the links between memories.
